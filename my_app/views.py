@@ -1,4 +1,8 @@
+import requests
+from bs4 import BeautifulSoup
 from django.shortcuts import render
+from requests.compat import quote_plus
+from . import models
 
 # Create your views here.
 
