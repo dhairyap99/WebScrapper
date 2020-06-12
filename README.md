@@ -1,4 +1,4 @@
-# SIGMA WebScrapper
+# SIGMA Search (WebScrapper)
 
 - A web application built using django framework which deploys a python webscrapping module 'Beautiful Soup' to search using the 'requests' module and display results from Craigslist (https://mumbai.craigslist.org/).
 - Why? To beautify the screen and make it user fiendly by using Materialize by Google for styling
